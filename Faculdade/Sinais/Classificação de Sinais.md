@@ -1,4 +1,4 @@
-Um sinal é uma manifestação de um acontecimento durante um intervalo de tempo que carrega na sua amplitude algum tipo de informação (neste caso o sinal representará transmissão de informação na forma de uma onda acústica, elétrica (tensão, corrente) ou eletromagnética (rádio ou feixe óptico), o qual será um dos sinais apresentados no capítulo [[Tipos de Sinais]]).
+Um sinal é uma manifestação de um acontecimento durante um intervalo de tempo que carrega na sua amplitude algum tipo de informação (neste caso o sinal representará transmissão de informação na forma de uma onda acústica, elétrica (tensão, corrente) ou eletromagnética (rádio ou feixe ótico), o qual será um dos sinais apresentados no capítulo [[Tipos de Sinais]]).
 
 - Sinais contínuos (no tempo) - sinais definidos para qualquer instante num intervalo de tempo contínuo da variável t (sinal de voz, vídeo, etc.);
 - Sinais discretos (no tempo) - sinais cujos valores estão definidos unicamente para instantes discretos da variável t. Caso o intervalo entre os instantes de tempo consecutivos for constante, designa-se por sinal amostrado;

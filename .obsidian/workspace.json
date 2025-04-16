@@ -4,217 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bca0cb76f39e2447",
+        "id": "fa049927d5af1b36",
         "type": "tabs",
         "children": [
           {
-            "id": "dce5bfc1cc4a379b",
+            "id": "117fe7191d95ce48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade/Sinais/Tipos de Sinais.md",
+                "file": "Faculdade/Sinais/Análise Espetral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de Sinais"
-            }
-          },
-          {
-            "id": "f06c8fad1fa1c597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/Sinais/Impulsos Dirac.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Impulsos Dirac"
-            }
-          },
-          {
-            "id": "09b2e8e80cedc927",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d1f65cadb292d763",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programação/Python/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "bf43fcffbb0b95d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programação/Godot/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "94e11e4b48227526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programação/Database/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "7e17e369fd1e0c76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programação/C sharp/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "24fee02d8c4aab45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programação/C/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "2d1dcbb3dd7754f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design/Trilha Sonora/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "ff9fa58000615893",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design/Story Telling/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "df3857a603e1b414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design/Personagens/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "0bb2ea1ac8cb325b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design/Objetivos/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "53368fcdbd6d3cf3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game Design/Cenários/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "a9c1d834ab4ee4cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/ProgramaçãoC/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "8973ec902449084c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Faculdade/Eletrónica/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Análise Espetral"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#h1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,11 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "033f72e1689a7a69",
@@ -360,10 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d53df552f1ed319f",
+  "active": "4f7f3c12b7db0fa4",
   "lastOpenFiles": [
-    "Faculdade/ProgramaçãoC/Untitled.md",
+    "Faculdade/Sinais/Análise Espetral.md",
+    "Faculdade/Sinais/Classificação de Sinais.md",
+    "Faculdade/Sinais/Tipos de Sinais.md",
+    "Faculdade/Sinais/Impulsos Dirac.md",
+    "Notas/Letras Gregas.md",
     "Faculdade/Eletrónica/Untitled.md",
+    "Faculdade/Untitled.canvas",
+    "Faculdade/ProgramaçãoC/Untitled.md",
     "Game Design/Cenários/Untitled.md",
     "Game Design/Objetivos/Untitled 1.md",
     "Game Design/Personagens/Untitled.md",
@@ -375,10 +189,6 @@
     "Programação/Godot/Untitled.md",
     "Programação/Python/Untitled.md",
     "sync.txt",
-    "Faculdade/Sinais/Impulsos Dirac.md",
-    "Faculdade/Sinais/Tipos de Sinais.md",
-    "Faculdade/Sinais/Classificação de Sinais.md",
-    "Notas/Letras Gregas.md",
     "Game Design/Objetivos",
     "Game Design/Story Telling",
     "Game Design/Trilha Sonora",
