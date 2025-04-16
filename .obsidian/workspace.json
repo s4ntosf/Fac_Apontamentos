@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "e30bedc6c48967bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bca0cb76f39e2447",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dce5bfc1cc4a379b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Sinais/Tipos de Sinais.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tipos de Sinais"
+            }
+          },
+          {
+            "id": "f06c8fad1fa1c597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade/Sinais/Impulsos Dirac.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Impulsos Dirac"
+            }
+          },
+          {
+            "id": "09b2e8e80cedc927",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "206beec13a2861eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a5c7a8e4c6e8bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d53df552f1ed319f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f7f3c12b7db0fa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f840fbe6a21baf79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "033f72e1689a7a69",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeb1d7da7919dd85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a4dcf5ac87c1330",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c09d8e12428928a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b2b6b0859dde46df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "33f7c51491363eee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "09b2e8e80cedc927",
+  "lastOpenFiles": [
+    "sync.txt",
+    "Faculdade/Sinais/Impulsos Dirac.md",
+    "Faculdade/Sinais/Tipos de Sinais.md",
+    "Faculdade/Sinais/Classificação de Sinais.md",
+    "Notas/Letras Gregas.md",
+    "Game Design/Objetivos",
+    "Game Design/Story Telling",
+    "Game Design/Trilha Sonora",
+    "Game Design/Cenários",
+    "Game Design/Personagens",
+    "Untitled 1.md",
+    "Programação/Database",
+    "Programação/C sharp",
+    "Programação/Godot",
+    "Programação/Python",
+    "Programação/C",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
