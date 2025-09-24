@@ -1,0 +1,3 @@
+- Bloco -> função de transferencia G(s)
+- Ponto de soma -> soma ou subtração de sinais
+- Ponto -> divide sinais em vários caminhos
