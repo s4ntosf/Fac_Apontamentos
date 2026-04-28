@@ -68,3 +68,6 @@ $i_{C}=C\frac{dv_{C}(t)}{dt}$
 
 $[t_{1},t_{2}]$: condensador liberta energia $\frac{dv_{C}(t)}{dt}<0$
 $[t_{2},t_{1}+T]$: condensador armazena energia $\frac{dv_{C}(t)}{dt}>0$
+
+25/09
+

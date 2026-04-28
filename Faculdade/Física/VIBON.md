@@ -86,4 +86,27 @@ $\theta''+\frac{mgr_{O}}{I_{O}}\theta=0$
 
 $\theta(t)=\theta_{máx}\sin(\omega_{o}t+\phi_{o})$
 $\omega_{o}=\sqrt\frac{mgr_{O}}{I_{O}}$
-$T=\frac{2\pi}{\omega_{o}}=2\pi \sqrt{}$
+$T=\frac{2\pi}{\omega_{o}}=2\pi\sqrt{\frac{I_{O}}{mgr_{O}}}$
+
+13/10/2025
+
+Todas as ondas mecânicas precisam de:
+- Uma fonte de perturbação
+- Um meio que possa ser perturbado
+- Um mecanismo físico no qual os elementos do meio possam influenciar uns aos outros
+
+$x=vt\implies \lambda=vt$
+$v=\frac{\lambda}{T}$
+
+Amplitude(A) - Deslocamento máximo de uma partícula em relação à sua **posição de equilíbrio**
+Comprimento de Onda($\lambda$) - Distancia entre mínima entre dois pontos num Período
+Frequência(*f* ou *v*) - Taxa de repetição do movimento
+Velocidade de Propagação(v) - Depende das propriedades do meio
+
+Num ponto qualquer, P, de abcissa $x_{P}$, a **elongação**, y, é determinada, substituindo *t* por $t-\tau$:
+$y(x_{0},t)=A\sin(\omega t)$
+$y(x_{P},t)=A\sin[\omega(t-\frac{x_{P}}{v_{prop}})]$ ou $A\sin(\omega t-\omega\frac{x_{P}}{v_{prop}})$
+
+$y(x,t)=A\sin( \frac{2\pi}{T}t-\frac{2\pi}{\lambda}) \to k=\frac{2\pi}{\lambda}$
+$y(x,t)=A\sin(\omega t-kx)$
+$y(x,t)A\sin[ \frac{2\pi}{\lambda}(x-vt)]$
